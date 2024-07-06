@@ -1,7 +1,7 @@
-# Docker
+# DockerHub 镜像
 ## 加速地址
 ```
-https://docker.isikun.eu.org
+https://docker.catiz.eu.org
 ```
 
 ## 使用方法
@@ -9,7 +9,7 @@ https://docker.isikun.eu.org
 编辑 daemon.json 文件，添加或修改 registry-mirrors 键值
 ```json
 {
-  "registry-mirrors": ["https://docker.isikun.eu.org"]
+  "registry-mirrors": ["https://docker.catiz.eu.org"]
 }
 ```
 

@@ -1,4 +1,4 @@
-# Gravatar
+# Gravatar 镜像
 ## 加速地址
 ```
 https://mirrors.kseas.cn/avatar/

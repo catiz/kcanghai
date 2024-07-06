@@ -1,0 +1,14 @@
+site_name: 沧海网络
+site_url: https://www.kcanghai.com
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/catiz
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:haibumian@gmail.com
+copyright: Copyright &copy; 2023 - 2024 商丘市睢阳区沧海网络技术工作室

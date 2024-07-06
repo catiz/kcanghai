@@ -3,12 +3,17 @@ site_url: https://www.kcanghai.com
 theme:
   name: material
   language: zh
+  custom_dir: overrides
   features:
     - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
 extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/catiz
     - icon: fontawesome/solid/paper-plane
       link: mailto:haibumian@gmail.com
+repo_url: https://github.com/catiz/kcanghai
+repo_name: catiz/kcanghai
 copyright: Copyright &copy; 2023 - 2024 商丘市睢阳区沧海网络技术工作室

@@ -10,6 +10,6 @@
 
 ## 联系我们
 
-邮箱：haibumian@gmail.com
-
-[豫ICP备2023020477号](http://beian.miit.gov.cn/)
+* QQ：2904306586
+* 微信：GG-Bond-1206
+* 邮箱：haibumian@gmail.com

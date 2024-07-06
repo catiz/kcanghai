@@ -6,7 +6,7 @@
 ## 企业项目
 * [企业博客](https://www.kseas.cn)
 * [沧海图床](https://img.kseas.cn)
-* [公共镜像源](https://mirrors.kseas.cn)
+* [公共镜像源](/镜像源/)
 
 ## 联系我们
 

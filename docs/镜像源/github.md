@@ -9,5 +9,8 @@ https://github.catiz.eu.org/
 
 以下都是合法输入：
 
-* https://github.catiz.eu.org/https://github.com/catiz/CommentDing/archive/refs/heads/main.zip
-* https://github.catiz.eu.org/https://github.com/catiz/CommentDing/blob/main/Plugin.php
+```
+https://github.catiz.eu.org/https://github.com/catiz/CommentDing/archive/refs/heads/main.zip
+https://github.catiz.eu.org/https://github.com/catiz/CommentDing/blob/main/Plugin.php
+```
+

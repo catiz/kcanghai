@@ -7,12 +7,12 @@
 ## 接口地址
 
 ```
-https://api.kseas.cn/ip.php
+https://api.kseas.cn/public/ip
 ```
 
 ## 使用方法
 
-请使用GET方法访问
+请使用 GET/POST 方法访问
 
 必选参数
 
@@ -25,29 +25,28 @@ https://api.kseas.cn/ip.php
 GET请求
 
 ```
-https://api.kseas.cn/ip.php?ip=8.8.8.8
+https://api.kseas.cn/public/ip?ip=36.134.76.72
 ```
 
 请求结果
 
 ```json
 {
-  "status": 0,
-  "message": "Success",
-  "request_id": "f1ecb98c822f474a885fe78ee0789ebe",
+  "status": "success",
+  "message": null,
   "result": {
-    "ip": "8.8.8.8",
+    "ip": "36.134.76.72",
     "location": {
-      "lat": 38.8833,
-      "lng": -77
+      "lng": 112.55067,
+      "lat": 37.87059
     },
     "ad_info": {
-      "nation": "美国",
-      "province": "",
-      "city": "",
+      "nation": "中国",
+      "province": "山西省",
+      "city": "太原市",
       "district": "",
-      "adcode": -1,
-      "nation_code": 840
+      "adcode": 140100,
+      "nation_code": 156
     }
   }
 }
